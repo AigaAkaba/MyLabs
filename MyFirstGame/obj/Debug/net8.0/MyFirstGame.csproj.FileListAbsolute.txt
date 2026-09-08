@@ -1,0 +1,14 @@
+C:\Users\Dima\Desktop\FirstProje\MyFirstGame\bin\Debug\net8.0\MyFirstGame.exe
+C:\Users\Dima\Desktop\FirstProje\MyFirstGame\bin\Debug\net8.0\MyFirstGame.deps.json
+C:\Users\Dima\Desktop\FirstProje\MyFirstGame\bin\Debug\net8.0\MyFirstGame.runtimeconfig.json
+C:\Users\Dima\Desktop\FirstProje\MyFirstGame\bin\Debug\net8.0\MyFirstGame.dll
+C:\Users\Dima\Desktop\FirstProje\MyFirstGame\bin\Debug\net8.0\MyFirstGame.pdb
+C:\Users\Dima\Desktop\FirstProje\MyFirstGame\obj\Debug\net8.0\MyFirstGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\Desktop\FirstProje\MyFirstGame\obj\Debug\net8.0\MyFirstGame.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\FirstProje\MyFirstGame\obj\Debug\net8.0\MyFirstGame.AssemblyInfo.cs
+C:\Users\Dima\Desktop\FirstProje\MyFirstGame\obj\Debug\net8.0\MyFirstGame.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\FirstProje\MyFirstGame\obj\Debug\net8.0\MyFirstGame.dll
+C:\Users\Dima\Desktop\FirstProje\MyFirstGame\obj\Debug\net8.0\refint\MyFirstGame.dll
+C:\Users\Dima\Desktop\FirstProje\MyFirstGame\obj\Debug\net8.0\MyFirstGame.pdb
+C:\Users\Dima\Desktop\FirstProje\MyFirstGame\obj\Debug\net8.0\MyFirstGame.genruntimeconfig.cache
+C:\Users\Dima\Desktop\FirstProje\MyFirstGame\obj\Debug\net8.0\ref\MyFirstGame.dll
